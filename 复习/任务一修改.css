@@ -10,15 +10,10 @@ div {
     margin: 5px;
 }
 
-.left {
-    display: flex;
-    flex: 2;
-    flex-direction: column;
-}
-
+.left,
 .right {
     display: flex;
-    flex: 1;
+    flex: 2;
     flex-direction: column;
 }
 
